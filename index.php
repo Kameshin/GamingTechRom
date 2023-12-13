@@ -19,7 +19,7 @@
     Riche d une histoire et d une evolution vieilles d une soixantaine d annees, le jeu video semble aujourd hui parvenir à une certaine forme de reconnaissance.
     Ce phenomene apparait comme une forme de patrimonialisation, nous entendons par patrimonialisation le processus qui fait basculer le statut d un objet quel qu il soit vers celui de patrimoine – faite par des amateurs pour des amateurs et qui,
     bien que l emulation soit loin d etre une forme de conservation parfaite,
-    permet de diffuser un patrimoine qui, pour une partie, serait devenu inaccessible ou n aurait jamais ete accessible au public.
+    permet de diffUtilisateur un patrimoine qui, pour une partie, serait devenu inaccessible ou n aurait jamais ete accessible au public.
     Bien que possédant de nombreux desavantages, comme la perte du support originel de conservation ou celle de lexperience originelle de jeu,
     nous observerons que l emulation permet d initier une conservation des objets videoludiques de maniere virale,
     chacun pouvant heberger sur son propre ordinateur une partie de ce patrimoine culturel.

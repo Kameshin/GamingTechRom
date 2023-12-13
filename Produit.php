@@ -4,6 +4,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <body>
+
+<input type="submit" name="s" value="Recherche">
+    <?php include("nav.php")  ?> 
     <h1>Explorer</h1>
 
     <img src="Batman - Arkham Origins Blackgate.png" alt="Batman - Arkham Origins Blackgate" height="150px" width="460px" >
@@ -71,10 +74,6 @@
     <img src="Pokemon Alpha Sapphire.jpg" alt="Pokemon Alpha Sapphire.jpg" height="150px" width="460px" >
     <img src="Pokemon X.jpg" alt="Pokemon X.jpg" height="150px" width="460px" >
     <img src="Pokemon Y.jpg" alt="Pokemon Y.jpg" height="150px" width="460px" >
-
-
-    
-        
     </form>
 </body>
 </html>
