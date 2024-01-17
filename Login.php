@@ -1,3 +1,25 @@
+<?php
+    if (isset($_POST) && $_POST){
+        include_once("database.php");
+        
+        $sql = "SELECT `id`, `email`, `name` FROM `utilisateur` WHERE `email` = '" . $_POST['email']. "' and `password` = '" . $_POST['password'] . "';";
+        $result = $conn->query($sql);
+        if (mysqli_num_rows($result) == 0){
+            echo "Utilisateur not found: Check your credentail";
+        }else{
+            $Utilisateur = mysqli_fetch_assoc($result);
+
+            session_start();
+            $_SESSION["id"] = $Utilisateur['id'];
+            $_SESSION["email"] = $Utilisateur['email'];
+            $_SESSION["name"] = $Utilisateur['name'];
+            
+            header('Location: index.php');
+            die;
+        }
+        $conn->close();
+    }
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
