@@ -1,0 +1,33 @@
+Legend{
+	color: blue;
+	font-size: 14px;
+	font-family: arial;
+	text-shadow: 2px 2px greenyellow;
+}
+tr td:first-child {
+	font-size:10px;
+	color:purple;
+	font-family:arial
+}
+tr td:last-child {
+	font-size:20px;
+	color:red;
+	font-family:arial
+}
+input{
+	background:aquamarine;
+	border:2px Solid blue;
+	border-radius: 10px 10px;
+}
+input:hover{
+	background:yellow;
+}
+input:focus{
+	background:darkturquoise;
+}
+.kamel:hover{
+	background:beige;
+	border:2px dashed red;
+	width: 70px ;
+	height:40px
+}

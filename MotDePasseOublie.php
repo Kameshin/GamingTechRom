@@ -19,9 +19,9 @@
 
 		<input type="submit" name="s" value="Chercher">
 
-        <a href="inscription.php">Mot De Passe Oublié</a>
-        <a href="inscription.php">Créer Un Nouveau Compte</a>
-        <a href="login.php">
+        <a href="Inscription.php">Mot De Passe Oublié</a>
+        <a href="Inscription.php">Créer Un Nouveau Compte</a>
+        <a href="Login.php">
         </form>
 </body>
 </html>

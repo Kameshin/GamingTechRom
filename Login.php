@@ -12,8 +12,8 @@
 		Mot De Passe <input type="Text" name="" size="20" placeholder=""><br>
         <input type="submit" name="s" value="Se connecter">
         <a href="MotDePasseOublie.php">Mot De Passe Oublié</a>
-        <a href="inscription.php">Créer Un Nouveau Compte</a>
-        <a href="login.php">
+        <a href="Formulaire Inscription.php">Créer Un Nouveau Compte</a>
+        <a href="Login.php">
     </form>
 </body>
 </html>
